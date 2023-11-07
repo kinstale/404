@@ -1,0 +1,6 @@
+body {color: yellow;
+      background-color: blue; 
+      font-size: 14pt; }
+
+a {text-decoration: none; font-size: 14pt; color: yellow;}
+a:hover {color: orange;}
